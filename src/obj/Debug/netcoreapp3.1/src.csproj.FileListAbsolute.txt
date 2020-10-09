@@ -1,0 +1,13 @@
+X:\codingame\src\bin\Debug\netcoreapp3.1\src.exe
+X:\codingame\src\bin\Debug\netcoreapp3.1\src.deps.json
+X:\codingame\src\bin\Debug\netcoreapp3.1\src.runtimeconfig.json
+X:\codingame\src\bin\Debug\netcoreapp3.1\src.runtimeconfig.dev.json
+X:\codingame\src\bin\Debug\netcoreapp3.1\src.dll
+X:\codingame\src\bin\Debug\netcoreapp3.1\src.pdb
+X:\codingame\src\obj\Debug\netcoreapp3.1\src.csprojAssemblyReference.cache
+X:\codingame\src\obj\Debug\netcoreapp3.1\src.AssemblyInfoInputs.cache
+X:\codingame\src\obj\Debug\netcoreapp3.1\src.AssemblyInfo.cs
+X:\codingame\src\obj\Debug\netcoreapp3.1\src.csproj.CoreCompileInputs.cache
+X:\codingame\src\obj\Debug\netcoreapp3.1\src.dll
+X:\codingame\src\obj\Debug\netcoreapp3.1\src.pdb
+X:\codingame\src\obj\Debug\netcoreapp3.1\src.genruntimeconfig.cache

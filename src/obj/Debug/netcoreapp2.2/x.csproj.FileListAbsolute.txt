@@ -1,0 +1,11 @@
+X:\codingame\bin\Debug\netcoreapp2.2\x.deps.json
+X:\codingame\bin\Debug\netcoreapp2.2\x.runtimeconfig.json
+X:\codingame\bin\Debug\netcoreapp2.2\x.runtimeconfig.dev.json
+X:\codingame\bin\Debug\netcoreapp2.2\x.dll
+X:\codingame\bin\Debug\netcoreapp2.2\x.pdb
+X:\codingame\obj\Debug\netcoreapp2.2\x.AssemblyInfoInputs.cache
+X:\codingame\obj\Debug\netcoreapp2.2\x.AssemblyInfo.cs
+X:\codingame\obj\Debug\netcoreapp2.2\x.csproj.CoreCompileInputs.cache
+X:\codingame\obj\Debug\netcoreapp2.2\x.dll
+X:\codingame\obj\Debug\netcoreapp2.2\x.pdb
+X:\codingame\obj\Debug\netcoreapp2.2\x.genruntimeconfig.cache
